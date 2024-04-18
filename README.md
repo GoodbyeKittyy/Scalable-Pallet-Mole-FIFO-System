@@ -12,7 +12,7 @@ This "Combiner" created in Flexsim is different from a traditional library acces
 
 5) After a batch of containers and flowitems has been collected, there is a RobotCycleTime that occurs that represents the moving of the flowitems into the containers, this time is ran one time for the entire batch.
 
-While this object may not be the final solution for a lot of instances, I believe that it is a good starting point. The Process Flow is well documented to explain the logic.
+While this might not be the final solution for a lot of instances, it is a good starting point. The Process Flow is well documented to explain the logic.
 
 Note that this is an Object Process Flow and all instances will need to be connected to the logic in the process flow.
 
